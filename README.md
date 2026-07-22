@@ -28,14 +28,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME-HERE&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME-HERE&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 📫 **Let's connect!**
-* 💼 LinkedIn: [Your Profile Link](https://linkedin.com/in/your-profile)
+* 💼 LinkedIn: (https://www.linkedin.com/in/mariajsl/)
